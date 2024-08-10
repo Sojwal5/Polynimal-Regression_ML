@@ -5,3 +5,5 @@ Here we have seen how polynomial Regression Perform better in some cases . Compa
 Data- Position with Salary 
 
   Predicted Salary of a Person based on his Position 
+  
+  Accuracy was improved from 63% to 87% .
